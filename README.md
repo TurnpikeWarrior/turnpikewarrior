@@ -1,5 +1,7 @@
 # Hi I'm Andy 👋
 
+**AI Engineer | Fullstack Engineer | EdTech Engineer | Product Manager | Certified ScrumMaster**
+
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
