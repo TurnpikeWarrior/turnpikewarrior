@@ -2,10 +2,14 @@
 
 **AI Engineer | Fullstack Engineer | EdTech Engineer | Product Manager | Certified ScrumMaster**
 
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed.
 
