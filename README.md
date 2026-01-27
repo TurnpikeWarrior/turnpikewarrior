@@ -10,6 +10,8 @@
 ## Current Projects
 
 - 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - a terminal-based Personal Financial Advisor using LancChain
+- **[Blazin' Paddle](https://github.com/TurnpikeWarrior/ocs-blazingpaddles)** - Pickleball Court Reservation System
+
 
 ## GitHub Activity
 
