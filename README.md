@@ -11,6 +11,9 @@
 
 - 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - a terminal-based Personal Financial Advisor using LancChain
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/turnpikewarrior)
 <!--
 **TurnpikeWarrior/turnpikewarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
