@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- 📝 **[SpecNote](https://github.com/TurnpikeWarrior/SpecNote)** - Notepad for AI Engineer _WORK IN PROGRESS_ (Don't worry - I will figure out a better name later)  
 - 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - A terminal-based Personal Financial Advisor using LancChain
 - 🏓 **[Blazin' Paddle](https://github.com/TurnpikeWarrior/ocs-blazingpaddles)** - Pickleball Court Reservation System
 - 👻 **[Wraith Watchers](https://github.com/TurnpikeWarrior/oc-wraithwatchers)** - Ghost Sightings Map
