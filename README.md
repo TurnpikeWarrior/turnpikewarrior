@@ -23,6 +23,23 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/turnpikewarrior)
+
+---
+
+<!-- 
+ADD BOOKS
+### Books
+
+ADD MADA Activity
+
+I'm huge on volunteerism. 
+
+Explain about my workflow. Obsidian. NotePad. 
+
+Explain AI workflow. 
+-->
+
+
 <!--
 **TurnpikeWarrior/turnpikewarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
