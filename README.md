@@ -9,8 +9,9 @@
 
 ## Current Projects
 
-- 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - a terminal-based Personal Financial Advisor using LancChain
-- **[Blazin' Paddle](https://github.com/TurnpikeWarrior/ocs-blazingpaddles)** - Pickleball Court Reservation System
+- 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - A terminal-based Personal Financial Advisor using LancChain
+- 🏓 **[Blazin' Paddle](https://github.com/TurnpikeWarrior/ocs-blazingpaddles)** - Pickleball Court Reservation System
+- 👻 **[Wraith Watchers](https://github.com/TurnpikeWarrior/oc-wraithwatchers)** - Ghost Sightings Map
 
 
 ## GitHub Activity
