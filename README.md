@@ -11,7 +11,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed.
+> Dream an idea. Build the product. Ship the solution. Panic later. 
 
 ## Current Projects
 
