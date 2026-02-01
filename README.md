@@ -28,6 +28,7 @@ _*WIP - Work In Progress_
 - [Claude Code](https://claude.com/product/claude-code) and [Codex CLI](https://openai.com/codex/)
 - [Gemini Nano Banana](https://gemini.google/overview/image-generation/)
 - [VS Code](https://code.visualstudio.com/) & [iTerm2](https://iterm2.com/)
+- [Figma](https://www.figma.com/)
 - [Wispr Flow](https://wisprflow.ai/)
 - [SpecNote](https://github.com/TurnpikeWarrior/SpecNote) & [Obsidian](https://obsidian.md/)
 - [Sharpie S Gel Pens 0.7](https://www.sharpie.com/pens/gel-pens/sharpie-s-gel-fine-point-0.5mm/SAP_2096140.html) & [KURU Toga Mechnical Pencil 0.7](https://www.unibrands.co/products/kuru-toga-mechanical-pencils?srsltid=AfmBOormwwNsUqMqFdZWzz4kG-vc2jUDYL_Tcx3oXeXW5NM0zbKsm9sp&variant=39362280915150) 
