@@ -22,6 +22,23 @@
 
 _*WIP - Work In Progress_
 
+## My Tool of Choice 
+
+- [ChatGPT](https://chatgpt.com/) & [Google AI Studio](https://aistudio.google.com/)
+- [Claude Code](https://claude.com/product/claude-code) and [Codex CLI](https://openai.com/codex/)
+- [Gemini Nano Banana](https://gemini.google/overview/image-generation/)
+- [VS Code](https://code.visualstudio.com/) & [iTerm2](https://iterm2.com/)
+- [Wispr Flow](https://wisprflow.ai/)
+- [SpecNote](https://github.com/TurnpikeWarrior/SpecNote) & [Obsidian](https://obsidian.md/)
+
+## Workflow Process
+1. Jot ideas in SpecNote. 
+2. Spitball ideas with ChatGPT & Google AI Studio.
+3. Create specification file.
+4. Cook it with Claude Code or Codex CLI.
+5. Reiterate.
+6. Ship it to Vercel or Netlify.
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/turnpikewarrior)
