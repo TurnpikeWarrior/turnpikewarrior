@@ -1,6 +1,6 @@
 # Hi I'm Andy 👋
 
-**AI Engineer | Fullstack Engineer | EdTech Engineer | Product Manager | Certified ScrumMaster**
+**AI Engineer | Product Developer | Tech Cowboy**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
