@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- 📝 **[SpecNote](https://github.com/TurnpikeWarrior/SpecNote)** - Notepad for AI Engineer _(WIP)    
+- 📝 **[SpecNote](https://github.com/TurnpikeWarrior/SpecNote)** - Notepad for AI Engineer (WIP)    
 - 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - A terminal-based Personal Financial Advisor using LancChain
 - 🏓 **[Blazin' Paddle](https://github.com/TurnpikeWarrior/ocs-blazingpaddles)** - Pickleball Court Reservation System
 - 👻 **[Wraith Watchers](https://github.com/TurnpikeWarrior/oc-wraithwatchers)** - Ghost Sightings Map
@@ -25,7 +25,7 @@ _*WIP - Work In Progress_
 ## My Tool of Choice 
 
 - [ChatGPT](https://chatgpt.com/) & [Google AI Studio](https://aistudio.google.com/)
-- [Claude Code](https://claude.com/product/claude-code) and [Codex CLI](https://openai.com/codex/)
+- [Claude Code](https://claude.com/product/claude-code) & [Codex CLI](https://openai.com/codex/)
 - [Gemini Nano Banana](https://gemini.google/overview/image-generation/)
 - [VS Code](https://code.visualstudio.com/) & [iTerm2](https://iterm2.com/)
 - [Figma](https://www.figma.com/)
