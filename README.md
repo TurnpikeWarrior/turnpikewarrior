@@ -36,11 +36,13 @@ _*WIP - Work In Progress_
 ## Workflow Process
 1. Jot ideas in SpecNote. 
 2. Spitball ideas with ChatGPT.
-3. Rapid prototype MVP in Google AI Studio.
-4. Create a spec file and product requirement doc.
+3. Rapid prototype MVP in Google AI Studio (just want to save my valuable tokens).
+4. Create a spec file and product requirement doc with ChatGPT.
 5. Cook it with Claude Code or Codex CLI.
-6. Reiterate.
-7. Ship it to Vercel or Netlify.
+6. Create images (logo, pix, etc.) with ChatGPT and Gemini. 
+7. Reiterate.
+8. App Hardening Process
+10. Ship it to Vercel or Netlify.
 
 ## GitHub Activity
 
