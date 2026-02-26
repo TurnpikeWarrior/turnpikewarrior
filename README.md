@@ -17,7 +17,7 @@
 
 - 🗂️ **[COSINT](https://github.com/TurnpikeWarrior/civic-osint)** - OSINT for Civic Watchmen
 - 📝 **[SpecNote](https://github.com/TurnpikeWarrior/SpecNote)** - Notepad for AI Engineer (WIP)    
-- 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - A terminal-based Personal Financial Advisor using LancChain
+- 💰 **[PEROT](https://github.com/TurnpikeWarrior/Perot-Personal-Financial-Advisor)** - A terminal-based Personal Financial Advisor using LangChain
 - 🏓 **[Blazin' Paddle](https://github.com/TurnpikeWarrior/ocs-blazingpaddles)** - Pickleball Court Reservation System
 
 _*WIP - Work In Progress_
