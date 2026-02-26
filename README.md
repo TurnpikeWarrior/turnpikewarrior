@@ -22,27 +22,24 @@
 
 _*WIP - Work In Progress_
 
-## My Tool of Choice 
+## My Tools of Choice 
 
-- [ChatGPT](https://chatgpt.com/) & [Google AI Studio](https://aistudio.google.com/)
-- [Claude Code](https://claude.com/product/claude-code) & [Codex CLI](https://openai.com/codex/)
-- [Gemini Nano Banana](https://gemini.google/overview/image-generation/)
-- [VS Code](https://code.visualstudio.com/) & [iTerm2](https://iterm2.com/)
+- [Ghostty](https://github.com/ghostty-org/ghostty) 
+- [Codex CLI](https://openai.com/codex/) & [Claude Code](https://claude.com/product/claude-code)
+- [ChatGPT](https://chatgpt.com/)
 - [Figma](https://www.figma.com/)
 - [Wispr Flow](https://wisprflow.ai/)
 - [SpecNote](https://github.com/TurnpikeWarrior/SpecNote) & [Obsidian](https://obsidian.md/)
 - [Sharpie S Gel Pens 0.7](https://www.sharpie.com/pens/gel-pens/sharpie-s-gel-fine-point-0.5mm/SAP_2096140.html) & [KURU Toga Mechnical Pencil 0.7](https://www.unibrands.co/products/kuru-toga-mechanical-pencils?srsltid=AfmBOormwwNsUqMqFdZWzz4kG-vc2jUDYL_Tcx3oXeXW5NM0zbKsm9sp&variant=39362280915150) 
 
 ## Workflow Process
-1. Jot ideas in SpecNote. 
-2. Spitball ideas with ChatGPT.
-3. Rapid prototype MVP in Google AI Studio (just want to save my valuable tokens).
-4. Create a spec file and product requirement doc with ChatGPT.
-5. Cook it with Claude Code or Codex CLI.
-6. Create images (logo, pix, etc.) with ChatGPT and Gemini. 
-7. Reiterate.
-8. App Hardening Process
-10. Ship it to Vercel or Netlify.
+1. Jot ideas in SpecNote or Notebook. 
+2. Spitball ideas with ChatGPT/Claude.
+3. Create a spec file and product requirement doc with ChatGPT/Claude.
+4. Cook it with Codex/Claude Code CLI. 
+5. Iterate Iterate Iterate.
+6. App Hardening Process.
+7. Ship it.
 
 ## GitHub Activity
 
