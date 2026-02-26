@@ -3,7 +3,7 @@
 **AI Engineer | Product Developer | Tech Cowboy**
 
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-!![Ghostty Badge](https://img.shields.io/badge/Ghostty-3551F3?logo=ghostty&logoColor=fff&style=for-the-badge)
+![Ghostty Badge](https://img.shields.io/badge/Ghostty-3551F3?logo=ghostty&logoColor=fff&style=flat)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
