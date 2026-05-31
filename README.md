@@ -4,7 +4,7 @@
 > Dream an idea 💡. Build the product 👨🏽‍💻. Ship the solution 🚀. Panic later 😱.  
 
 ## Current Projects
-- **[Obsidian + Hermes Agent]** - Personal Knowledge Management
+- **[Obsidian + Hermes Agent]()** - Personal Knowledge Management
 
 ## Projects
 
