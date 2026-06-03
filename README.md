@@ -22,15 +22,6 @@
 - [Wispr Flow](https://wisprflow.ai/) 
 - [Sharpie S Gel Pens 0.7](https://www.sharpie.com/pens/gel-pens/sharpie-s-gel-fine-point-0.5mm/SAP_2096140.html) & [KURU Toga Mechnical Pencil 0.7](https://www.unibrands.co/products/kuru-toga-mechanical-pencils?srsltid=AfmBOormwwNsUqMqFdZWzz4kG-vc2jUDYL_Tcx3oXeXW5NM0zbKsm9sp&variant=39362280915150) 
 
-## Workflow Process
-1. Jot ideas in SpecNote or Notebook. 
-2. Spitball ideas with ChatGPT/Claude.
-3. Create a spec file and product requirement doc with ChatGPT/Claude.
-4. Cook it with Codex/Claude Code CLI. 
-5. Iterate Iterate Iterate.
-6. App Hardening Process.
-7. Ship it.
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/turnpikewarrior)
