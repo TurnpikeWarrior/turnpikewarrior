@@ -17,8 +17,9 @@
 
 - [Ghostty](https://github.com/ghostty-org/ghostty) + [tmux](https://github.com/tmux/tmux/wiki) 
 - [Codex CLI](https://openai.com/codex/) & [Claude Code](https://claude.com/product/claude-code)
-- [Wispr Flow](https://wisprflow.ai/)
 - [SpecNote](https://github.com/TurnpikeWarrior/SpecNote) & [Obsidian](https://obsidian.md/)
+- [Hermes Agent](https://github.com/nousresearch/hermes-agent) 
+- [Wispr Flow](https://wisprflow.ai/) 
 - [Sharpie S Gel Pens 0.7](https://www.sharpie.com/pens/gel-pens/sharpie-s-gel-fine-point-0.5mm/SAP_2096140.html) & [KURU Toga Mechnical Pencil 0.7](https://www.unibrands.co/products/kuru-toga-mechanical-pencils?srsltid=AfmBOormwwNsUqMqFdZWzz4kG-vc2jUDYL_Tcx3oXeXW5NM0zbKsm9sp&variant=39362280915150) 
 
 ## Workflow Process
