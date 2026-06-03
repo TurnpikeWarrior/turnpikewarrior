@@ -15,7 +15,7 @@
 
 ## My Tools of Choice 
 
-- [Ghostty](https://github.com/ghostty-org/ghostty) 
+- [Ghostty](https://github.com/ghostty-org/ghostty) + [tmux](https://github.com/tmux/tmux/wiki) 
 - [Codex CLI](https://openai.com/codex/) & [Claude Code](https://claude.com/product/claude-code)
 - [Wispr Flow](https://wisprflow.ai/)
 - [SpecNote](https://github.com/TurnpikeWarrior/SpecNote) & [Obsidian](https://obsidian.md/)
