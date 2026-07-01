@@ -4,6 +4,7 @@
 > Dream an idea 💡. Build the product 👨🏽‍💻. Ship the solution 🚀. Panic later 😱.  
 
 ## Current Projects
+- **[Tab Buster](https://github.com/TurnpikeWarrior/Tab-Buster)** - Chrome extension for Heavy Tabbers
 - **[Obsidian + Hermes Agent]()** - Personal Knowledge Management
 
 ## Projects
