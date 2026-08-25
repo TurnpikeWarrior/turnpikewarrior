@@ -1,7 +1,7 @@
 # Hi I'm Andy 👋
 
 **AI Engineer | Product Developer | Tech Cowboy**
-> Dream an idea 💡. Build the product 👨🏽‍💻. Ship the solution 🚀. Panic later 😱.  
+> Dream an idea 💡. Build the product 👨🏽‍💻. Ship the solution 🚀. Drink coffee ☕️.  
 
 ## Current Projects
 - **[Tab Buster](https://github.com/TurnpikeWarrior/Tab-Buster)** - Chrome extension for Heavy Tabbers
